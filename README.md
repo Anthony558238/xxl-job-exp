@@ -8,7 +8,7 @@
 **由于传播、利用此工具所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，作者不为此承担任何责任。**
 
 ## 前言
-javafx 练习项目，本工具由 [xxl-jobExploitGUI](https://github.com/charonlight/xxl-jobExploitGUI) 改写完成，实现了xxl-job多个漏洞的利用，实现了漏洞利用脚本（写入内存马），后续会对该工具持续进行优化工作
+javafx 练习项目，本工具由 [xxl-jobExploitGUI](https://github.com/charonlight/xxl-jobExploitGUI) 改写完成，参考多个xxl-job内存马注入文章，实现了xxl-job多个漏洞的利用，实现了漏洞利用脚本（写入内存马），后续会对该工具持续进行优化工作
 
 ## 使用方式
 根据说明输入url即可进行检测与利用，由于漏洞特性，检测与利用的回显可能参考价值不大，判断内存马是否写入的话，以直接连接为准
